@@ -11,7 +11,7 @@ Amazon has also been able to keep repeat customers interested and using their we
 
 ### Nike
 To begin with, Nike has a more specific audience mainly involving teenagers, young adults and sports players. To appeal to this audience Nike has made their website minimalistic. They do this by keeping their colour scheme of mainly white and only showing their newest and most popular products. This is most likely done by Nike to show potential customers the best and newest things that the company can offer. It also means that teenagers and young adults, who generally have a shorter attention span, will be more likely to stay and use the website. The general layout of Nike's website is also a grid pattern, but they try to break up each row a bit more, while still keeping the website somewhat symmetrical.
-![](https://i.ibb.co/N9dTWrF/Unit-15-2.png)
+![](https://ibb.co/brrVjtf/Unit-15-2.png)
 Another thing that Nike does to keep users interested is by adding terms like "don't miss" on limited items, making them seem even more rare. This has the effect, especially on younger generations, of making people want the item more, since it is now seen as rarer and more valuable. There is also a secondary effect of this, which is that people don't want to be left out when products like this go on sale, driving demand for them higher. Nike has been able to capitalise on these effects with their website and other promotions.
 
 ### Evaluation
